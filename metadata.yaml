@@ -1,0 +1,26 @@
+_repo: Sir-Humphrey-Gilbert-s-Voyage-to-Newfoundland_3338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haies, Edward, active 1580
+    alias: Hayes, Edward
+    gutenberg_agent_id: '1185'
+    url: http://www.gutenberg.org/2009/agents/1185
+description: ''
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AC'
+- !lcc 'F1001'
+- !lcsh 'Gilbert, Humphrey, Sir, 1539?-1583'
+- !lcsh 'Newfoundland and Labrador -- History'
+- !lcsh 'Voyages and travels'
+- GITenberg
+title: Sir Humphrey Gilbert's Voyage to Newfoundland
+url: http://www.gutenberg.org/ebooks/3338
