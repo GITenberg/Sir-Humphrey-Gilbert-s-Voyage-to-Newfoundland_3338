@@ -1,5 +1,8 @@
 _repo: Sir-Humphrey-Gilbert-s-Voyage-to-Newfoundland_3338
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haies, Edward, active 1580
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1185'
     url: http://www.gutenberg.org/2009/agents/1185
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3338#Sir-Humphrey-Gilbert-s-Voyage-to-Newfoundland
 gutenberg_issued: '2006-04-06'
 gutenberg_type: Text
 identifiers:
